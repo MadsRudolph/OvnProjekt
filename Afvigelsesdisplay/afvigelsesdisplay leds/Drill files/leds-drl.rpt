@@ -1,0 +1,28 @@
+Drill report for leds.kicad_pcb
+Created on 2024-10-23T14:51:31+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'leds-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (1 hole)
+    T2  0.800mm  0.0315"  (18 holes)
+    T3  0.900mm  0.0354"  (32 holes)
+    T4  1.020mm  0.0402"  (4 holes)
+    T5  1.118mm  0.0440"  (32 holes)
+    T6  1.750mm  0.0689"  (2 holes)
+
+    Total plated holes count 89
+
+
+Drill file 'leds-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.100mm  0.0433"  (1 hole)
+
+    Total unplated holes count 1
