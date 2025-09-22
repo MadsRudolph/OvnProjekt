@@ -25,6 +25,11 @@ All schematics and PCBs were created in **KiCad**. The final project uses a **hi
 
 > The `OVN` folder is the **source of truth** for the integrated oven design.
 
+--
+
+> The subfolders contain **intermediate/local variants** and backups. They’re useful for history, but the **final connected design** lives in `OVN/`.
+
+--
 ---
 
 ## 🎯 Project Goals
@@ -69,10 +74,6 @@ Sequences the temperature program and dwell times.
 
 ---
 
-> The subfolders contain **intermediate/local variants** and backups. They’re useful for history, but the **final connected design** lives in `OVN/`.
-
----
-
 ## 🛠 Tools & Key Components
 
 - **Design:** KiCad (schematic + PCB)
@@ -87,12 +88,6 @@ Sequences the temperature program and dwell times.
 2. **KiCad Schematic & PCB** → create/clean symbols and **custom footprints** as needed  
 3. **Integration** → hierarchical sheet in `OVN` ties everything together  
 4. **Debug & Iterate** → scope timing edges, adjust thresholds, verify stability and safety
-
----
-
-## 📷 Project Highlights
-
-> Add photos/screens here (top-level schematic, PCBs, assembled oven, oscilloscope captures).
 
 ---
 
