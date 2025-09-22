@@ -23,13 +23,9 @@ All schematics and PCBs were created in **KiCad**. The final project uses a **hi
 4. Optional: open the **PCB**:
    - `./OVN/OVN.kicad_pcb`
 
-> The `OVN` folder is the **source of truth** for the integrated oven design.
-
---
 
 > The subfolders contain **intermediate/local variants** and backups. They’re useful for history, but the **final connected design** lives in `OVN/`.
 
---
 ---
 
 ## 🎯 Project Goals
