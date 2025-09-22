@@ -69,7 +69,15 @@ Sequences the temperature program and dwell times.
 - Drives indicators (LEDs / 7-segment) and coordinates timing
 
 ---
-
+<h2>🧾 Project Poster</h2>
+<p align="center">
+  <a href="./docs/Ovn_Projekt_Poster.pdf" target="_blank">
+    <img src="./docs/Ovn_Projekt_Poster.png" alt="Oven Project Poster" style="max-width: 1000px; width: 100%; height: auto;">
+  </a>
+  <br>
+  <em>Click to open the full PDF</em>
+</p>
+---
 ## 🛠 Tools & Key Components
 
 - **Design:** KiCad (schematic + PCB)
